@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1464789603 source:e:\graduationproject\codefinal\knnrandom\main.cpp
+	"Graph.h"
+	"Queue.h"
+	"Set.h"
+	"PathSet.h"
+	"Sequence.h"
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+
+1463548208 e:\graduationproject\codefinal\knnrandom\graph.h
+	<stdio.h>
+	<stdlib.h>
+
+1461237679 e:\graduationproject\codefinal\knnrandom\queue.h
+	<stdio.h>
+	<stdlib.h>
+
+1464188881 e:\graduationproject\codefinal\knnrandom\set.h
+	<stdio.h>
+	<stdlib.h>
+
+1463236203 e:\graduationproject\codefinal\knnrandom\pathset.h
+	<stdio.h>
+	<stdlib.h>
+
+1463755129 e:\graduationproject\codefinal\knnrandom\sequence.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

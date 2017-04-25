@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1464795547 source:e:\graduationproject\codefinal\knnpractical\main.cpp
+	"Graph.h"
+	"Queue.h"
+	"Set.h"
+	"PathSet.h"
+	"Sequence.h"
+	"Stack.h"
+	<stdlib.h>
+
+1464653316 e:\graduationproject\codefinal\knnpractical\graph.h
+	<stdio.h>
+	<stdlib.h>
+
+1463401597 e:\graduationproject\codefinal\knnpractical\queue.h
+	<stdio.h>
+	<stdlib.h>
+
+1464666441 e:\graduationproject\codefinal\knnpractical\set.h
+	<stdio.h>
+	<stdlib.h>
+
+1463360209 e:\graduationproject\codefinal\knnpractical\pathset.h
+	<stdio.h>
+	<stdlib.h>
+
+1463364563 e:\graduationproject\codefinal\knnpractical\sequence.h
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+	<math.h>
+
+1464372553 e:\graduationproject\codefinal\knnpractical\stack.h
+	<stdio.h>
+	<stdlib.h>
+
